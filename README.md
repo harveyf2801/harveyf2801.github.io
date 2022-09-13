@@ -1,2 +1,2 @@
 # Oops ...
-I think you meant to go [here](https://harveyf2801/portfolio/ "Harveys's Portfolio")
+I think you meant to go [here](https://harveyf2801.github.io/portfolio/ "Harveys's Portfolio")
